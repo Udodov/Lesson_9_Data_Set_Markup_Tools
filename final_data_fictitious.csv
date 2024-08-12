@@ -1,0 +1,101 @@
+Year-Of-Publication,Book-Rating,Age,Page-Count,Genre,Review-Count,Year-Label,Rating-Label,Age-Label,Page-Count-Label,Genre-Label,Review-Count-Label
+2001,8,12,921,Romance,34,After 2000,High,Child,Long,Emotional,Moderate Reviews
+1964,5,29,735,Drama,86,Before 2000,Medium,Adult,Long,Emotional,Many Reviews
+2021,3,68,841,Non-Fiction,80,After 2000,Low,Senior,Long,Other,Many Reviews
+2010,8,45,675,Non-Fiction,89,After 2000,High,Adult,Long,Other,Many Reviews
+1970,6,28,337,Science Fiction,7,Before 2000,Medium,Adult,Long,Speculative Fiction,Few Reviews
+1973,3,76,992,Thriller,92,Before 2000,Low,Senior,Long,Suspense,Many Reviews
+1952,1,28,903,Romance,25,Before 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1971,3,29,712,Science Fiction,73,Before 2000,Low,Adult,Long,Speculative Fiction,Many Reviews
+2002,5,61,688,Fantasy,89,After 2000,Medium,Adult,Long,Speculative Fiction,Many Reviews
+1951,3,42,204,Fantasy,33,Before 2000,Low,Adult,Medium,Speculative Fiction,Moderate Reviews
+1979,1,49,539,Science Fiction,6,Before 2000,Low,Adult,Long,Speculative Fiction,Few Reviews
+1987,5,48,435,Non-Fiction,67,Before 2000,Medium,Adult,Long,Other,Many Reviews
+1951,10,10,834,Fantasy,57,Before 2000,High,Child,Long,Speculative Fiction,Many Reviews
+2013,7,20,153,Drama,74,After 2000,High,Adult,Medium,Emotional,Many Reviews
+2009,7,66,978,Drama,28,After 2000,High,Senior,Long,Emotional,Moderate Reviews
+1970,9,59,442,Science Fiction,35,Before 2000,High,Adult,Long,Speculative Fiction,Moderate Reviews
+1982,10,32,860,Romance,88,Before 2000,High,Adult,Long,Emotional,Many Reviews
+2007,10,40,295,Romance,20,After 2000,High,Adult,Medium,Emotional,Moderate Reviews
+1971,3,51,225,Science Fiction,35,Before 2000,Low,Adult,Medium,Speculative Fiction,Moderate Reviews
+1998,7,16,88,Romance,9,Before 2000,High,Child,Short,Emotional,Few Reviews
+2008,1,25,526,Non-Fiction,72,After 2000,Low,Adult,Long,Other,Many Reviews
+1991,4,69,731,Non-Fiction,23,Before 2000,Medium,Senior,Long,Other,Moderate Reviews
+2009,4,11,808,Romance,63,After 2000,Medium,Child,Long,Emotional,Many Reviews
+1964,5,10,587,Drama,98,Before 2000,Medium,Child,Long,Emotional,Many Reviews
+2011,7,57,916,Romance,48,After 2000,High,Adult,Long,Emotional,Moderate Reviews
+2011,7,21,867,Non-Fiction,98,After 2000,High,Adult,Long,Other,Many Reviews
+1996,4,78,970,Mystery,35,Before 2000,Medium,Senior,Long,Suspense,Moderate Reviews
+2011,7,46,457,Thriller,81,After 2000,High,Adult,Long,Suspense,Many Reviews
+2000,3,41,574,Fantasy,95,After 2000,Low,Adult,Long,Speculative Fiction,Many Reviews
+2004,6,18,877,Mystery,23,After 2000,Medium,Adult,Long,Suspense,Moderate Reviews
+2013,2,28,555,Romance,22,After 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1952,10,57,952,Drama,61,Before 2000,High,Adult,Long,Emotional,Many Reviews
+2000,9,12,874,Science Fiction,95,After 2000,High,Child,Long,Speculative Fiction,Many Reviews
+1956,5,29,85,Romance,36,Before 2000,Medium,Adult,Short,Emotional,Moderate Reviews
+1970,6,33,734,Drama,11,Before 2000,Medium,Adult,Long,Emotional,Moderate Reviews
+2022,4,63,69,Thriller,54,After 2000,Medium,Adult,Short,Suspense,Many Reviews
+1988,10,42,370,Romance,12,Before 2000,High,Adult,Long,Emotional,Moderate Reviews
+1967,7,33,825,Non-Fiction,22,Before 2000,High,Adult,Long,Other,Moderate Reviews
+1953,9,45,561,Science Fiction,88,Before 2000,High,Adult,Long,Speculative Fiction,Many Reviews
+2009,7,47,449,Drama,98,After 2000,High,Adult,Long,Emotional,Many Reviews
+1963,1,34,703,Drama,29,Before 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1958,1,27,932,Drama,16,Before 2000,Low,Adult,Long,Emotional,Moderate Reviews
+2002,9,75,520,Thriller,61,After 2000,High,Senior,Long,Suspense,Many Reviews
+1951,9,63,192,Romance,83,Before 2000,High,Adult,Medium,Emotional,Many Reviews
+2009,4,44,141,Thriller,88,After 2000,Medium,Adult,Medium,Suspense,Many Reviews
+2020,9,70,403,Fantasy,85,After 2000,High,Senior,Long,Speculative Fiction,Many Reviews
+1993,3,50,883,Fantasy,12,Before 2000,Low,Adult,Long,Speculative Fiction,Moderate Reviews
+1957,7,42,849,Romance,58,Before 2000,High,Adult,Long,Emotional,Many Reviews
+1996,6,77,776,Non-Fiction,18,Before 2000,Medium,Senior,Long,Other,Moderate Reviews
+1984,8,42,903,Thriller,48,Before 2000,High,Adult,Long,Suspense,Moderate Reviews
+1985,9,23,100,Science Fiction,99,Before 2000,High,Adult,Medium,Speculative Fiction,Many Reviews
+1999,5,30,714,Drama,11,Before 2000,Medium,Adult,Long,Emotional,Moderate Reviews
+1953,1,57,747,Drama,60,Before 2000,Low,Adult,Long,Emotional,Many Reviews
+1951,3,29,624,Romance,18,Before 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1955,10,17,239,Non-Fiction,75,Before 2000,High,Child,Medium,Other,Many Reviews
+2003,8,16,174,Fantasy,8,After 2000,High,Child,Medium,Speculative Fiction,Few Reviews
+1953,6,76,199,Fantasy,70,Before 2000,Medium,Senior,Medium,Speculative Fiction,Many Reviews
+2003,8,26,363,Drama,27,After 2000,High,Adult,Long,Emotional,Moderate Reviews
+2012,9,42,619,Romance,77,After 2000,High,Adult,Long,Emotional,Many Reviews
+1967,4,57,391,Thriller,94,Before 2000,Medium,Adult,Long,Suspense,Many Reviews
+1993,1,68,354,Fantasy,51,Before 2000,Low,Senior,Long,Speculative Fiction,Many Reviews
+1983,1,31,741,Thriller,82,Before 2000,Low,Adult,Long,Suspense,Many Reviews
+2011,10,39,731,Non-Fiction,15,After 2000,High,Adult,Long,Other,Moderate Reviews
+1963,4,47,887,Fantasy,68,Before 2000,Medium,Adult,Long,Speculative Fiction,Many Reviews
+1997,7,60,832,Fantasy,98,Before 2000,High,Adult,Long,Speculative Fiction,Many Reviews
+1964,2,63,103,Mystery,11,Before 2000,Low,Adult,Medium,Suspense,Moderate Reviews
+2021,3,17,493,Fantasy,24,After 2000,Low,Child,Long,Speculative Fiction,Moderate Reviews
+2011,1,36,662,Science Fiction,51,After 2000,Low,Adult,Long,Speculative Fiction,Many Reviews
+1989,5,36,313,Romance,84,Before 2000,Medium,Adult,Long,Emotional,Many Reviews
+2002,1,30,102,Romance,99,After 2000,Low,Adult,Medium,Emotional,Many Reviews
+1973,8,39,621,Thriller,52,Before 2000,High,Adult,Long,Suspense,Many Reviews
+1975,1,37,669,Non-Fiction,22,Before 2000,Low,Adult,Long,Other,Moderate Reviews
+2009,1,73,54,Fantasy,15,After 2000,Low,Senior,Short,Speculative Fiction,Moderate Reviews
+1990,2,78,152,Science Fiction,56,Before 2000,Low,Senior,Medium,Speculative Fiction,Many Reviews
+1978,2,70,245,Thriller,38,Before 2000,Low,Senior,Medium,Suspense,Moderate Reviews
+1964,6,57,823,Mystery,52,Before 2000,Medium,Adult,Long,Suspense,Many Reviews
+1994,7,28,926,Thriller,41,Before 2000,High,Adult,Long,Suspense,Moderate Reviews
+2014,5,13,933,Thriller,57,After 2000,Medium,Child,Long,Suspense,Many Reviews
+2020,1,44,399,Fantasy,38,After 2000,Low,Adult,Long,Speculative Fiction,Moderate Reviews
+1958,1,73,96,Mystery,13,Before 2000,Low,Senior,Short,Suspense,Moderate Reviews
+1950,3,58,916,Thriller,94,Before 2000,Low,Adult,Long,Suspense,Many Reviews
+1957,2,26,872,Science Fiction,4,Before 2000,Low,Adult,Long,Speculative Fiction,Few Reviews
+2012,5,53,985,Science Fiction,34,After 2000,Medium,Adult,Long,Speculative Fiction,Moderate Reviews
+1960,10,39,869,Romance,86,Before 2000,High,Adult,Long,Emotional,Many Reviews
+1957,6,55,705,Mystery,92,Before 2000,Medium,Adult,Long,Suspense,Many Reviews
+1984,7,15,318,Mystery,74,Before 2000,High,Child,Long,Suspense,Many Reviews
+1984,4,46,419,Romance,17,Before 2000,Medium,Adult,Long,Emotional,Moderate Reviews
+1982,7,33,685,Thriller,75,Before 2000,High,Adult,Long,Suspense,Many Reviews
+1954,8,55,155,Mystery,8,Before 2000,High,Adult,Medium,Suspense,Few Reviews
+1990,1,62,719,Science Fiction,73,Before 2000,Low,Adult,Long,Speculative Fiction,Many Reviews
+1977,6,69,708,Science Fiction,57,Before 2000,Medium,Senior,Long,Speculative Fiction,Many Reviews
+1956,8,72,706,Fantasy,16,Before 2000,High,Senior,Long,Speculative Fiction,Moderate Reviews
+2022,5,41,169,Mystery,6,After 2000,Medium,Adult,Medium,Suspense,Few Reviews
+2021,4,42,880,Thriller,45,After 2000,Medium,Adult,Long,Suspense,Moderate Reviews
+1961,2,76,836,Romance,12,Before 2000,Low,Senior,Long,Emotional,Moderate Reviews
+1983,6,27,653,Romance,39,Before 2000,Medium,Adult,Long,Emotional,Moderate Reviews
+1982,6,34,107,Thriller,41,Before 2000,Medium,Adult,Medium,Suspense,Moderate Reviews
+1997,1,63,395,Non-Fiction,8,Before 2000,Low,Adult,Long,Other,Few Reviews
+1972,9,67,790,Drama,49,Before 2000,High,Senior,Long,Emotional,Moderate Reviews
+2011,6,76,523,Fantasy,26,After 2000,Medium,Senior,Long,Speculative Fiction,Moderate Reviews

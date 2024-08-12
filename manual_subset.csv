@@ -1,0 +1,21 @@
+Year-Of-Publication,Book-Rating,Age,Page-Count,Genre,Review-Count,Year-Label,Rating-Label,Age-Label,Page-Count-Label,Genre-Label,Review-Count-Label
+1960,10,39,869,Romance,86,Before 2000,High,Adult,Long,Emotional,Many Reviews
+1951,3,29,624,Romance,18,Before 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1973,8,39,621,Thriller,52,Before 2000,High,Adult,Long,Suspense,Many Reviews
+2020,9,70,403,Fantasy,85,After 2000,High,Senior,Long,Speculative Fiction,Many Reviews
+2009,4,44,141,Thriller,88,After 2000,Medium,Adult,Medium,Suspense,Many Reviews
+2009,7,47,449,Drama,98,After 2000,High,Adult,Long,Emotional,Many Reviews
+2009,4,11,808,Romance,63,After 2000,Medium,Child,Long,Emotional,Many Reviews
+1950,3,58,916,Thriller,94,Before 2000,Low,Adult,Long,Suspense,Many Reviews
+1979,1,49,539,Science Fiction,6,Before 2000,Low,Adult,Long,Speculative Fiction,Few Reviews
+2001,8,12,921,Romance,34,After 2000,High,Child,Long,Emotional,Moderate Reviews
+1971,3,51,225,Science Fiction,35,Before 2000,Low,Adult,Medium,Speculative Fiction,Moderate Reviews
+2013,2,28,555,Romance,22,After 2000,Low,Adult,Long,Emotional,Moderate Reviews
+1990,2,78,152,Science Fiction,56,Before 2000,Low,Senior,Medium,Speculative Fiction,Many Reviews
+1956,5,29,85,Romance,36,Before 2000,Medium,Adult,Short,Emotional,Moderate Reviews
+1977,6,69,708,Science Fiction,57,Before 2000,Medium,Senior,Long,Speculative Fiction,Many Reviews
+1970,6,28,337,Science Fiction,7,Before 2000,Medium,Adult,Long,Speculative Fiction,Few Reviews
+1994,7,28,926,Thriller,41,Before 2000,High,Adult,Long,Suspense,Moderate Reviews
+2014,5,13,933,Thriller,57,After 2000,Medium,Child,Long,Suspense,Many Reviews
+1951,10,10,834,Fantasy,57,Before 2000,High,Child,Long,Speculative Fiction,Many Reviews
+1952,10,57,952,Drama,61,Before 2000,High,Adult,Long,Emotional,Many Reviews
